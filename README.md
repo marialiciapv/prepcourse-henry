@@ -1,2 +1,1 @@
-# prepcourse-henry
-repo de prueba modulo2 con readme
+prueba de como crear un repositorio y clonarlo desde github.
